@@ -26,8 +26,8 @@ plugins:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Daniel
+  email: daniel@thebridgeschool.es
   twitter:
   google:
     ad-client:
