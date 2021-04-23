@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Portfolio
+  url: /portfolio/
+  image: bio-photo.jpg
+
+- title: GitHub
+  url: https://github.com/daorti
+
+- title: About
+  url: /about/
